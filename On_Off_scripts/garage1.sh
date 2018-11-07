@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo mosquitto_pub -h 1.1.1.5 -t "domoticz/garage" -m '1'
+sudo mosquitto_pub -h your domoticz server ip -t "domoticz/garage" -m '1'
