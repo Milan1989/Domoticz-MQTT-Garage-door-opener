@@ -13,3 +13,5 @@ Domoticz configuration:
 - Add MQTT Client Gateway with LAN interface
 - Add Dummy virtual switch
 - Create 2 switch for two garage doors (You have to set On and Off Action for the switches)
+
+❮img src="pictures/Garage opener wiring diagarm.jpg" ❯
