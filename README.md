@@ -14,4 +14,4 @@ Domoticz configuration:
 - Add Dummy virtual switch
 - Create 2 switch for two garage doors (You have to set On and Off Action for the switches)
 
-![](pictures/Wiring_diagram.png)
+![](pictures/Garage_opener_wiring_diagram.png)
