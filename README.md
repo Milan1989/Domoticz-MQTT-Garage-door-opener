@@ -18,4 +18,4 @@ Let me introduce my garage door opener connected with Domoticz server. This proj
 
 ![](pictures/Garage_opener_wiring_diagram.png)
 
-I you like my project drop a Star.
+If you like my project drop a Star.
