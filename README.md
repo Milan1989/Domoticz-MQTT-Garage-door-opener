@@ -2,13 +2,13 @@
 
 <img align="right" width="100" src="pictures/Domoticz.png">
 
-Let me introduce my garage door opener for Domoticz. This project handles two garage doors simultaneously and monitors the real status of doors with magnetic contact reed switch via MQTT protocol. If you use your own remote controll for the garage door opener, the status of the doors will be updated in Domoticz too.
+Let me introduce my garage door opener connected with Domoticz server. This project handles two garage doors simultaneously and monitors the real status of doors with magnetic contact reed switch via MQTT protocol. If you use your own remote control for the garage door opening, the status of the doors will be updated on Domoticz too.
 
 **Components:**
 
 - Arduino Leonardo ETH PoE
 - 5V 2 Channel Relay Board Module
-- 2 pcs Magnetic Contact Reed Switch
+- 2 pcs of Magnetic Contact Reed Switch
 
 **Domoticz configuration:**
 
