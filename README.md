@@ -9,7 +9,7 @@ I made a  garge door opener for Domoticz. This project handle two garage doors s
 - 5V 2 Channel Relay Board Module
 - 2 pcs Magnetic Contact Reed Switch
 
-**Domoticz configuration:***
+**Domoticz configuration:**
 
 - Add MQTT Client Gateway with LAN interface
 - Add Dummy virtual switch
