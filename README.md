@@ -2,7 +2,7 @@
 
 <img align="right" width="100" src="pictures/Domoticz.png">
 
-I made a  garge door opener for Domoticz. This project handle two garage doors simultaneously and monitoring the real status of doors with magnetic contact reed switch via MQTT protocol. If you use your own remote controller for the garage door opener the status of the doors will be updated in Domoticz also.
+Let me introduce my garage door opener for Domoticz. This project handles two garage doors simultaneously and monitors the real status of doors with magnetic contact reed switch via MQTT protocol. If you use your own remote controll for the garage door opener, the status of the doors will be updated in Domoticz too.
 
 **Components:**
 
