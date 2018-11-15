@@ -17,3 +17,5 @@ Let me introduce my garage door opener connected with Domoticz server. This proj
 - Create 2 switch for two garage doors (You have to set On and Off Action for the switches)
 
 ![](pictures/Garage_opener_wiring_diagram.png)
+
+I you like my project drop a Star.
