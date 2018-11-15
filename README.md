@@ -1,4 +1,4 @@
-# Garge door opener Domoticz-MQTT
+# Garage door opener Domoticz-MQTT
 
 <img align="right" width="100" src="pictures/Domoticz.png">
 
