@@ -1,4 +1,4 @@
-# Domoticz-MQTT-Garge-door-opener
+# Domoticz-MQTT Garge door opener
 
 <img align="right" width="100" src="pictures/Domoticz.png">
 
